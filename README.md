@@ -7,24 +7,24 @@
 ### The game provides a fun and interactive way to test and improve memory and concentration skills.
 
 ## Features
-### * Randomly generated sequences of colors.
-### * Progressive difficulty levels as the game progresses.
-### * User-friendly interface with clear instructions for playing.
-### * Score tracking to keep track of the player's performance.
+###  Randomly generated sequences of colors.
+###  Progressive difficulty levels as the game progresses.
+###  User-friendly interface with clear instructions for playing.
+###  Score tracking to keep track of the player's performance.
 
 ## How to Play
 
-### * Start the game by clicking any key. 
-### * Simon will play a sequence of colors.
-### * Remember the sequence.
-### * Click or tap the colors in the same order as Simon played them.
-### * If you make a mistake, the game will end, and your score will be displayed.
+###  Start the game by clicking any key. 
+###  Simon will play a sequence of colors.
+###  Remember the sequence.
+###  Click or tap the colors in the same order as Simon played them.
+###  If you make a mistake, the game will end, and your score will be displayed.
 
 ## Technologies Used
 
-### * HTML
-### * CSS
-### * JavaScript 
+###  HTML
+###  CSS
+###  JavaScript 
 
 ## Screenshot of the game
 
